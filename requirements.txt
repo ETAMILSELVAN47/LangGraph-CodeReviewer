@@ -1,0 +1,6 @@
+python-dotenv
+langchain
+langgraph
+langchain-groq
+ipykernel
+langgraph-cli[inmem]
